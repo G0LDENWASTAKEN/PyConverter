@@ -1,11 +1,6 @@
-PYTHON CONVERTER! MADE BY G0LDEN!
-
-https://bit.ly/3G1xac0
-
+Simple Python Unicode Converter - Made by Cooper (G0LDEN)
 
 HOW TO INSTALL:
-
-
 Step 1: Run "compile.bat".
 Step 2: Wait for the command prompt window to close.
 Step 3: Open the folder named "dist"
